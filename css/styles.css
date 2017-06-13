@@ -1,0 +1,24 @@
+body {
+  background-color: #ddd;
+}
+.text-div {
+  box-sizing: border-box;
+  white-space: pre-wrap;
+  width:70vW;
+  margin: 10vh auto 3em;
+  padding: 3em;
+  background-color: white;
+}
+
+ul {
+  box-sizing: border-box;
+  width:70vW;
+  height: 11.6em;
+  line-height: 1.2em;
+  padding: 0 2em;
+  border: 1em solid white;
+  margin: 0 auto;
+  list-style: none;
+  background-color: white;
+  overflow-y: scroll;
+}
